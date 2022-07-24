@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @kentodaikoku
+- 👀 I’m from Japan.
+- 🌱 I’m currently learning ...
+  - PHP
+  - Laravel
+  - Javascript
+  - Git
+- I started to work as a web engineer in 2022, in Tokyo.
