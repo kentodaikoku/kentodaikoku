@@ -1,8 +1,11 @@
+## MY INTRODUCTION
+
 - 👋 Hi, I’m @kentodaikoku
 - 👀 I’m from Japan.
+- I started to learn Programming in 2021.
 - 🌱 I’m currently learning ...
   - PHP
   - Laravel
   - Javascript
   - Git
-- I started to work as a web engineer in 2022, in Tokyo.
+- I have been working as a web engineer since 2022, in Tokyo.
