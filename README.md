@@ -10,6 +10,8 @@
   - Git
 - I have been working as a web engineer since 2022, in Tokyo.
 
+## History
 [![kentodaikoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentodaikoku&theme=vue-dark&show_icons=true)](https://github.com/kentodaikoku/github-readme)
 
+## Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentodaikoku&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kentodaikoku/github-readme)
