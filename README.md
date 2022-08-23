@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...
   - PHP
   - Laravel
-  - Javascript
+  - Javascript, jQuery
   - Git
 - I have been working as a web engineer since 2022, in Tokyo.
 
