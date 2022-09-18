@@ -8,6 +8,7 @@
   - Laravel
   - Javascript, jQuery
   - Git
+  - Docker
 - I have been working as a web engineer since 2022, in Tokyo.
 
 ## History
