@@ -9,7 +9,7 @@
   - PHP/Laravel
   - Git
   - Docker
-  - MovableType/PowerCMS
+  - WordPress/MovableType/PowerCMS
 - I have been working as a web engineer since 2022, in Tokyo.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentodaikoku&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
