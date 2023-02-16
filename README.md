@@ -4,7 +4,7 @@
 - 👀 I’m from Japan.
 - I started to learn Programming in 2021.
 - I have been working as a web engineer since 2022, in Tokyo.
-- 🧑‍💻 My stocks for work are ...
+- 🧑‍💻 My current stocks are ...
 
 |  Skill      |  Level    |
 | -------     | -------   |
@@ -17,7 +17,7 @@
 | Linux       | ☀️☀️      |
 | Git         | ☀️☀️      |
 
-other skills I have experienced under my work are ...
+- other skills I have experienced under my work are ... <br>
 MovableType, CakePHP, jQuery, Bootstrap, SVN, Docker, Vagrant, 
 
 - 🌱 I’m currently learning ...
