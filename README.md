@@ -8,22 +8,22 @@
 
 |  Skill      |  Level    |
 | -------     | -------   |
-| html/css    | ☀️☀️🌤️    | 
-| javascript(jQuery) | ☀️☀️ |
+| html/css    | ☀️☀️☀️    | 
+| javascript  | ☀️☀️      |
 | PHP         | ☀️☀️☀️    |
 | Laravel     | ☀️☀️🌤️    |
 | Mysql       | ☀️☀️      |
-| SVN         | ---       |
 | WordPress   | ☀️☀️      |
-| MovableType<br>PowerCMS | ☀️☀️ |
 | Linux       | ☀️☀️      |
+| Git         | ☀️☀️      |
+
+other skills I have experienced under my work are ...
+MovableType, CakePHP, jQuery, Bootstrap, SVN, Docker, Vagrant, 
 
 - 🌱 I’m currently learning ...
-  - tailwindcss
   - Javascript
   - PHP/Laravel
   - Git
-  - Docker
   - Linux
 
 
