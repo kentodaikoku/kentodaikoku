@@ -1,4 +1,5 @@
 ## MY INTRODUCTION (自己紹介)
+### ← the picture is not me lol
 
 - 👋 Hi, I’m @kentodaikoku
 - 👀 I’m from Japan.
