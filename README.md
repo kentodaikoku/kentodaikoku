@@ -1,31 +1,33 @@
 ## MY INTRODUCTION (自己紹介)
-### ← the picture is not me
 
 - 👋 Hi, I’m @kentodaikoku
 - 👀 I’m from Japan.
-- I started to learn Programming in 2021.
-- I have been working as a web engineer since 2022, in Tokyo.
+- I have started to learn Programming since 2021.
+- I worked as a web engineer in 2022, in Tokyo.
+- I have been working at tech company in Cebu since 2023.
 - 🧑‍💻 My current stocks are ...
 
 |  Skill      |  Level    |
 | -------     | -------   |
-| html/css    | ☀️☀️☀️    | 
-| javascript  | ☀️☀️      |
-| PHP         | ☀️☀️☀️    |
-| Laravel     | ☀️☀️🌤️    |
-| Mysql       | ☀️☀️      |
-| WordPress   | ☀️☀️      |
-| Linux       | ☀️☀️      |
-| Git         | ☀️☀️      |
+| html/css    | ☀️☀️☀️       | 
+| javascript  | ☀️☀️        |
+| React.js    | ☀️         |
+| PHP         | ☀️☀️☀️       |
+| Laravel     | ☀️☀️🌤️      |
+| Mysql       | ☀️☀️        |
+| WordPress   | ☀️☀️        |
+| Linux       | ☀️☀️        |
+| Git         | ☀️☀️        |
 
 - other skills I have experienced under my work are ... <br>
 MovableType, CakePHP, jQuery, Bootstrap, SVN, Docker, Vagrant, 
 
 - 🌱 I’m currently learning ...
   - Javascript
-  - PHP/Laravel
+  - React.js
+  - ~~PHP/Laravel~~
   - Git
-  - Linux
+  - ~~Linux~~
 
 
 ### Records
