@@ -30,7 +30,7 @@ MovableType, CakePHP, jQuery, Bootstrap, SVN, Docker, Vagrant,
   - Git
   - ~~Linux~~
 
-### [MY PORTFOLIO](https://my-portfolio-eight-mu-71.vercel.app/)
+### [MY PORTFOLIO ↗︎](https://my-portfolio-eight-mu-71.vercel.app/)
 
 
 ## Records
