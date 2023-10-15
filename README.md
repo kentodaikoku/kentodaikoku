@@ -1,11 +1,11 @@
 ## MY INTRODUCTION (自己紹介)
 
 - 👋 Hi, I’m @kentodaikoku
-- 👀 I’m from Japan.
-- I have started to learn Programming since 2021.
-- I worked as a web engineer in 2022, in Tokyo.
-- I have been working at tech company in Cebu since 2023.
-- 🧑‍💻 My current stocks are ...
+- 🎌 I’m from Japan.
+- 📚　I have started to learn Programming since 2021.
+- 💻 I worked as a web engineer in 2022, in Tokyo.
+- 🏝 I have been working at tech company in Cebu since 2023.
+- 👨‍💻 My current stocks are ...
 
 |  Skill      |  Level    |
 | -------     | -------   |
@@ -30,8 +30,10 @@ MovableType, CakePHP, jQuery, Bootstrap, SVN, Docker, Vagrant,
   - Git
   - ~~Linux~~
 
+### [MY PORTFOLIO](https://my-portfolio-eight-mu-71.vercel.app/)
 
-### Records
+
+## Records
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentodaikoku&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
