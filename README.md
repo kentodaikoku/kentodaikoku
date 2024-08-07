@@ -2,14 +2,14 @@
 
 - 👋 Hi, I’m @kentodaikoku
 - 🎌 I’m from Japan.
-- 📚　I have started to learn Programming since 2021.
+- 📚 I have started to learn Programming since 2021.
 - 💻 I worked as a web engineer in 2022, in Tokyo.
-- 🏝 I have been working at tech company in Cebu since 2023.
+- 🏝 I have been working at tech company in Cebu Philippines since June 2023.
 - 👨‍💻 My current stocks are ...
 
 |  Skill      |  Level    |
 | -------     | -------   |
-| html/css    | ☀️☀️☀️       | 
+| html/css    | ☀️☀️☀️☀️      | 
 | javascript  | ☀️☀️        |
 | React.js    | ☀️         |
 | Next.js     | ☀️         |
@@ -18,19 +18,23 @@
 | Mysql       | ☀️☀️        |
 | WordPress   | ☀️☀️        |
 | Linux       | ☀️☀️        |
-| Git         | ☀️☀️        |
+| Git         | ☀️☀️☀️       |
 
 - other skills I have experienced under my work are ... <br>
-MovableType, CakePHP, jQuery, Bootstrap, SVN, Docker, Vagrant, 
+MovableType, CakePHP, jQuery, Bootstrap, SVN, Docker, Vagrant,
 
-- 🌱 I’m currently learning ...
+- I have *TOEIC 785* in 2024
+
+<!-- 
+  🌱 I’m currently learning ...
   - Javascript
   - React.js
   - ~~PHP/Laravel~~
   - Git
   - ~~Linux~~
+-->
 
-### [MY PORTFOLIO ↗︎](https://my-portfolio-eight-mu-71.vercel.app/)
+### Here is [MY PORTFOLIO ↗︎](https://my-portfolio-eight-mu-71.vercel.app/)
 
 
 ## Records
