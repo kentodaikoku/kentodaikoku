@@ -10,7 +10,7 @@
 |  Skill      |  Level    |
 | -------     | -------   |
 | html/css    | ☀️☀️☀️☀️      | 
-| javascript  | ☀️☀️        |
+| javascript  | ☀️☀️☀️       |
 | typescript  | 🌤️        |
 | React.js    | ☀️         |
 | Next.js     | ☀️         |
